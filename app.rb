@@ -12,7 +12,7 @@ class App < Sinatra::Base
     
     erb :team
     
-    binding.pry
+   
   end 
 
 
